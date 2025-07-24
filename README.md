@@ -117,3 +117,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=togoruiz08@hotmail.com&logo=microsoft-outlook&label=Outlook&color=0078D4&logoColor=white&labelColor=0078D4&style=flat" height="33" alt="microsoft-outlook logo"  />
 </div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioG08/AntonioG08/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioG08/AntonioG08/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AntonioG08/AntonioG08/output/pacman-contribution-graph.svg">
+</picture>
+
+###
